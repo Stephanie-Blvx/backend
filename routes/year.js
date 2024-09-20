@@ -9,4 +9,3 @@ router.get('/', (req, res) => {
 
 
 module.exports = router
-(new Date().getFullYear().toString())
